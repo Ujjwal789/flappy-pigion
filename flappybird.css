@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#board {
+    /* background image must be same dimension height and width in givin by yoyu in*/
+    background-image: url("flappybirdbg.png"); 
+}
